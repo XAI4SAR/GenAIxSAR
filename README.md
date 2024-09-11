@@ -80,7 +80,7 @@ Circular SAR Incoherent 3D Imaging with a NeRF-Inspired Method
 
 [Model-Based Deep Learning](https://ieeexplore.ieee.org/document/10056957/)
 
-[PhyRecon: Physically Plausible Neural Scene Reconstruction]([2404.16666] PhyRecon: Physically Plausible Neural Scene Reconstruction)
+[PhyRecon: Physically Plausible Neural Scene Reconstruction](http://arxiv.org/abs/2404.16666)
 
 [Physically-aware Generative Network for 3D Shape Modeling](https://ieeexplore.ieee.org/document/9578796/)
 
