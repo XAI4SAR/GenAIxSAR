@@ -1,6 +1,4 @@
-# GenAIxSAR
-The resources of papers and codes in our survey paper: Generative AI Meets SAR
-GenAI Meets SAR: A List of Resources
+# GenAI Meets SAR: A List of Resources
 
 ## Awesome papers
 
@@ -103,3 +101,33 @@ Circular SAR Incoherent 3D Imaging with a NeRF-Inspired Method
 [A SAR Target Image Simulation Method With DNN Embedded to Calculate Electromagnetic Reflection](https://ieeexplore.ieee.org/abstract/document/9345961)
 
 [Parameter Extraction Based on Deep Neural Network for SAR Target Simulation](https://ieeexplore.ieee.org/document/8999587/)
+
+## Datasets
+
+### Multi-view SAR Target Generation
+
+The moving and stationary target acquisition and recognition (MSTAR) dataset
+
+SAMPLE dataset
+
+The Synthetic and Measured Paired and Labeled Experiment (SAMPLE) dataset
+
+[飞机目标多角度SAR数据集](https://radars.ac.cn/web/data/getData?newsColumnId=1c9a6287-4763-4f94-889e-156f50aca946)
+
+OpenSARShip dataset
+
+FUSARShip dataset
+
+### SAR-to-Optical Image Translation
+
+SEN1-2: The SEN1-2 Dataset for Deep Learning in SAR-Optical Data Fusion
+
+SAR2Opt: A Comparative Analysis of GAN-Based Methods for SAR-to-Optical Image Translation
+
+QXS-SAROPT: The QXS-SAROPT Dataset for Deep Learning in SAR-Optical Data Fusion
+
+SEN12MS: SEN12MS – A Curated Dataset of Georeferenced Multi-Spectral Sentinel-1/2 Imagery for Deep Learning and Data Fusion
+
+WHU-SEN-City: SAR-to-Optical Image Translation Using Supervised Cycle-Consistent Adversarial Networks
+
+Multi-Sensor All Weather Mapping (MSAW) Dataset: SpaceNet 6: Multi-Sensor All Weather Mapping Dataset
