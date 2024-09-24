@@ -12,29 +12,29 @@
 
 [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/pdf/2209.00796)
 
-Making Images Real Again: A Comprehensive Survey on Deep Image Composition
+[Making Images Real Again: A Comprehensive Survey on Deep Image Composition](https://arxiv.org/abs/2106.14490)
 
 **Synthetic Aperture Radar**
 
-Application of deep generative networks for SAR/ISAR: a review
+[Application of deep generative networks for SAR/ISAR: a review](https://www.researchgate.net/profile/Jiawei-Zhang-39/publication/369591348_Application_of_deep_generative_networks_for_SARISAR_a_review/links/6441e639b8ba5f00242b89fa/Application-of-deep-generative-networks-for-SAR-ISAR-a-review.pdf)
 
-A review of Generative Adversarial Networks (GANs) and its applications in a wide variety of disciplines - From Medical to Remote Sensing
+[A review of Generative Adversarial Networks (GANs) and its applications in a wide variety of disciplines - From Medical to Remote Sensing](https://ieeexplore.ieee.org/iel7/6287639/6514899/10372211.pdf)
 
-Deep Learning Methods For Synthetic Aperture Radar Image Despeckling: An Overview Of Trends And Perspectives
+[Deep Learning Methods For Synthetic Aperture Radar Image Despeckling: An Overview Of Trends And Perspectives](https://arxiv.org/pdf/2012.05508)
 
-Explainable, Physics-Aware, Trustworthy Artificial Intelligence: A paradigm shift for synthetic aperture radar
+[Explainable, Physics-Aware, Trustworthy Artificial Intelligence: A paradigm shift for synthetic aperture radar](https://ieeexplore.ieee.org/abstract/document/10035918/)
 
-微波视觉与SAR图像智能解译
+[Microwave Vision and Intelligent Perception of Radar Imagery](https://radars.ac.cn/cn/article/pdf/preview/10.12000/JR23225.pdf)
 
-A review and meta-analysis of Generative Adversarial Networks and their applications in remote sensing
+[A review and meta-analysis of Generative Adversarial Networks and their applications in remote sensing](https://www.sciencedirect.com/science/article/pii/S0303243422000605)
 
 ### Electromagnetic Modeling
 
-SARCASTIC v2.0—High-Performance SAR Simulation for Next-Generation ATR Systems
+[SARCASTIC v2.0—High-Performance SAR Simulation for Next-Generation ATR Systems](https://www.mdpi.com/2072-4292/14/11/2561)
 
 [Ray-Tracing Simulation Techniques for Understanding High-Resolution SAR Images](http://ieeexplore.ieee.org/document/5238514/)
 
-Potentials and limitations of SAR image simulators – A comparative study of three simulation approaches
+[Potentials and limitations of SAR image simulators – A comparative study of three simulation approaches](https://www.sciencedirect.com/science/article/pii/S0924271614002834)
 
 [Imaging Simulation of Polarimetric SAR for a Comprehensive Terrain Scene Using the Mapping and Projection Algorithm](https://ieeexplore.ieee.org/document/1717717)
 
@@ -58,15 +58,15 @@ Potentials and limitations of SAR image simulators – A comparative study of th
 
 **NeRF + Radar:**
 
-Radar Fields: An Extension of Radiance Fields to SAR
+[Radar Fields: An Extension of Radiance Fields to SAR](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Ehret_Radar_Fields_An_Extension_of_Radiance_Fields_to_SAR_CVPRW_2024_paper.pdf)
 
-DART: Implicit Doppler Tomography for Radar Novel View Synthesis
+[DART: Implicit Doppler Tomography for Radar Novel View Synthesis](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_DART_Implicit_Doppler_Tomography_for_Radar_Novel_View_Synthesis_CVPR_2024_paper.pdf)
 
 [Radar Fields: Frequency-Space Neural Scene Representations for FMCW Radar](https://dl.acm.org/doi/10.1145/3641519.3657510)
 
 [ISAR-NeRF: Neural Radiance Fields for 3-D Imaging of Space Target From Multiview ISAR Images](https://ieeexplore.ieee.org/document/10423594/?arnumber=10423594)
 
-Circular SAR Incoherent 3D Imaging with a NeRF-Inspired Method
+[Circular SAR Incoherent 3D Imaging with a NeRF-Inspired Method](https://www.mdpi.com/2072-4292/15/13/3322)
 
 [RaNeRF: Neural 3-D Reconstruction of Space Targets From ISAR Image Sequences](https://ieeexplore.ieee.org/document/10190736/?arnumber=10190736)
 
@@ -106,33 +106,62 @@ Circular SAR Incoherent 3D Imaging with a NeRF-Inspired Method
 
 ### Multi-view SAR Target Generation
 
-The moving and stationary target acquisition and recognition (MSTAR) dataset
+[The moving and stationary target acquisition and recognition (MSTAR) dataset](https://www.sdms.afrl.af.mil/index.php?collection=mstar)
 
-SAMPLE dataset
+[SAMPLE dataset](https://github.com/benjaminlewis-afrl/SAMPLE_dataset_public)
 
-The Synthetic and Measured Paired and Labeled Experiment (SAMPLE) dataset
+[The Synthetic and Measured Paired and Labeled Experiment (SAMPLE) dataset](https://github.com/benjaminlewis-afrl/SAMPLE_dataset_public)
 
 [飞机目标多角度SAR数据集](https://radars.ac.cn/web/data/getData?newsColumnId=1c9a6287-4763-4f94-889e-156f50aca946)
 
-OpenSARShip dataset
+[OpenSARShip dataset](https://opensar.sjtu.edu.cn/index.html)
 
-FUSARShip dataset
+[FUSARShip dataset](https://emwlab.fudan.edu.cn/67/05/c20899a222981/page.htm#:~:text=FUSAR-Ship%20is%20an%20open%20SAR-AIS%20matchup%20dataset%20of,missioned%20for%20ocean%20remote%20sensing%20and%20marine%20monitoring.)
 
 ### SAR-to-Optical Image Translation
 
-SEN1-2: The SEN1-2 Dataset for Deep Learning in SAR-Optical Data Fusion
+[SEN1-2: The SEN1-2 Dataset for Deep Learning in SAR-Optical Data Fusion](https://mediatum.ub.tum.de/1436631)
 
-SAR2Opt: A Comparative Analysis of GAN-Based Methods for SAR-to-Optical Image Translation
+[SAR2Opt: A Comparative Analysis of GAN-Based Methods for SAR-to-Optical Image Translation](https://github.com/MarsZhaoYT/SAR2Opt-Heterogeneous-Dataset)
 
-QXS-SAROPT: The QXS-SAROPT Dataset for Deep Learning in SAR-Optical Data Fusion
+[QXS-SAROPT: The QXS-SAROPT Dataset for Deep Learning in SAR-Optical Data Fusion](https://github.com/yaoxu008/QXS-SAROPT)
 
-SEN12MS: SEN12MS – A Curated Dataset of Georeferenced Multi-Spectral Sentinel-1/2 Imagery for Deep Learning and Data Fusion
+[SEN12MS: SEN12MS – A Curated Dataset of Georeferenced Multi-Spectral Sentinel-1/2 Imagery for Deep Learning and Data Fusion](https://mediatum.ub.tum.de/1474000)
 
-WHU-SEN-City: SAR-to-Optical Image Translation Using Supervised Cycle-Consistent Adversarial Networks
+[WHU-SEN-City: SAR-to-Optical Image Translation Using Supervised Cycle-Consistent Adversarial Networks](https://github.com/whu-csl/WHU-SEN-City)
 
-Multi-Sensor All Weather Mapping (MSAW) Dataset: SpaceNet 6: Multi-Sensor All Weather Mapping Dataset
+[Multi-Sensor All Weather Mapping (MSAW) Dataset: SpaceNet 6: Multi-Sensor All Weather Mapping Dataset](https://spacenet.ai/sn6-challenge/)
 
 ## Experiments
 
 We provide several baseline models based on GAN for multi-view SAR target image generation under limited observation angles. The source code can be found at ./GAN
 
+### Method
+
+The baseline models are based on ACGAN, utilizing class label $y$ and azimuth angle $\theta$ as conditional inputs. The discriminator not only differentiates whether the input image is true or false, but also predicts the class label and azimuth angle of it. Furthermore, in order to stabilize the training process, we adopt the following techniques respectively:
++ SNGAN([Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957))
++ LSGAN([Least Squares Generative Adversarial Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mao_Least_Squares_Generative_ICCV_2017_paper.pdf))
++ DRAGAN([On convergence and stability of gans](https://arxiv.org/pdf/1705.07215))
++ WGAN-GP([Improved Training of Wasserstein GANs](https://proceedings.neurips.cc/paper_files/paper/2017/file/892c3b1c6dccd52936e27cbd0ff683d6-Paper.pdf))
+
+### Getting started
+
+#### Datasets
+MSTAR dataset is used in the experiment. The dataset contains ten different classes of vehicles with azimuth angle ranging from 0° to 360°.
+
+#### Training
+To train a GAN model, run the following command:
+```
+python train.py \
+   --bs 32 \
+   --lrg 0.0001 \
+   --lrd 0.0001 \
+   --num_epochs 500 \
+   --save_dir ${SAVE_PATH} \
+```
++ lrg and lrd are the learning rate of the generator and discriminator respectively
+#### Generating 
+After training stage, run the following command to generate SAR target images with given label and angle information corresponding to a 15◦ depression angle.
+```
+python generate.py
+```
