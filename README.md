@@ -114,13 +114,13 @@ This category of methods focuses on leveraging pretrained diffusion models (such
 - Others incorporate ControlNet, using conditional inputs such as optical images, edge maps, or semantic segmentation maps to achieve cross-modal generation (e.g., SAR images) or structured optical image synthesis;
 - Certain methods further fine-tune adapters on task-specific datasets to enhance generation accuracy for particular applications.
   
-  [**MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation1**](https://arxiv.org/abs/2410.22362)
+[**MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation1**](https://arxiv.org/abs/2410.22362)
   
-  [**Diffusion-Geo: A Two-Stage Controllable Text-To-Image Generative Model for Remote Sensing Scenarios**](https://ieeexplore.ieee.org/document/10641523)
+[**Diffusion-Geo: A Two-Stage Controllable Text-To-Image Generative Model for Remote Sensing Scenarios**](https://ieeexplore.ieee.org/document/10641523)
 
-  [**CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model**](https://ieeexplore.ieee.org/document/10663449)
+[**CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model**](https://ieeexplore.ieee.org/document/10663449)
 
-  [**DiffusionSat: A Generative Foundation Model for Satellite Imagery**](https://arxiv.org/abs/2312.03606)
+[**DiffusionSat: A Generative Foundation Model for Satellite Imagery**](https://arxiv.org/abs/2312.03606)
 
 
   
@@ -131,9 +131,9 @@ This category of methods is based on large-scale image-text paired datasets to d
 - Utilizing large-scale image-text paired datasets to train diffusion models from scratch, effectively integrating textual information with metadata or temporal embeddings to achieve highly controllable optical image generation;
 - A few methods incorporate techniques such as ControlNet to enable cross-modal generation based on text control, extending to SAR image synthesis.
   
-  [**Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model**](https://arxiv.org/abs/2501.00895)
+[**Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model**](https://arxiv.org/abs/2501.00895)
 
-  [**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**](https://ieeexplore.ieee.org/document/10768939)
+[**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**](https://ieeexplore.ieee.org/document/10768939)
   
 ## Datasets
 
