@@ -28,6 +28,9 @@
 
 [A review and meta-analysis of Generative Adversarial Networks and their applications in remote sensing](https://www.sciencedirect.com/science/article/pii/S0303243422000605)
 
+**Language-Guided Diffusion Models for Remote Sensing**
+
+
 ### Electromagnetic Modeling
 
 [SARCASTIC v2.0—High-Performance SAR Simulation for Next-Generation ATR Systems](https://www.mdpi.com/2072-4292/14/11/2561)
@@ -101,7 +104,37 @@
 [A SAR Target Image Simulation Method With DNN Embedded to Calculate Electromagnetic Reflection](https://ieeexplore.ieee.org/abstract/document/9345961)
 
 [Parameter Extraction Based on Deep Neural Network for SAR Target Simulation](https://ieeexplore.ieee.org/document/8999587/)
+### 🔥 Remote Sensing Image Generation with Diffusion Models
 
+Diffusion models have demonstrated significant potential in remote sensing image generation tasks, including optical and SAR imagery. Existing research methods can be broadly categorized into two approaches: the first involves fine-tuning pre-trained models, where existing diffusion models are adapted to the remote sensing domain through transfer learning with domain-specific data; the second approach relies on end-to-end training with image-text paired data, in which diffusion models are trained from scratch without leveraging general-purpose models, aiming to learn cross-modal generation capabilities directly from remote sensing imagery and corresponding textual descriptions.    
+#### 1. Cross-Modal Remote Sensing Image Generation (Supporting SAR Image Synthesis)
+
+This category of methods focuses on leveraging pretrained diffusion models (such as Stable Diffusion) as the foundation, adapting them to remote sensing image generation tasks through fine-tuning. The generation targets include optical image synthesis and cross-modal generation from optical to SAR imagery. Compared to models trained from scratch, these approaches utilize efficient fine-tuning techniques (such as LoRA or ControlNet) to quickly adapt to remote sensing data, offering greater generalizability and computational efficiency:  
+- Some methods employ LoRA for fine-tuning on text-image paired datasets, enabling text-controlled optical image generation;  
+- Others incorporate ControlNet, using conditional inputs such as optical images, edge maps, or semantic segmentation maps to achieve cross-modal generation (e.g., SAR images) or structured optical image synthesis;
+- Certain methods further fine-tune adapters on task-specific datasets to enhance generation accuracy for particular applications.
+  
+  [**MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation1**](https://arxiv.org/abs/2410.22362)
+  
+  [**Diffusion-Geo: A Two-Stage Controllable Text-To-Image Generative Model for Remote Sensing Scenarios**](https://ieeexplore.ieee.org/document/10641523)
+
+  [**CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model**](https://ieeexplore.ieee.org/document/10663449)
+
+  [**DiffusionSat: A Generative Foundation Model for Satellite Imagery**](https://arxiv.org/abs/2312.03606)
+
+
+  
+  
+#### 2.Diffusion Methods Driven by Image-Text Paired Data  
+
+This category of methods is based on large-scale image-text paired datasets to directly drive the training of diffusion models, primarily enabling text-controlled optical image generation, with some approaches further supporting cross-modal generation from optical to SAR images. Compared to fine-tuning pretrained models, these methods emphasize data-driven model construction and deep fusion of textual and visual content:  
+- Utilizing large-scale image-text paired datasets to train diffusion models from scratch, effectively integrating textual information with metadata or temporal embeddings to achieve highly controllable optical image generation;
+- A few methods incorporate techniques such as ControlNet to enable cross-modal generation based on text control, extending to SAR image synthesis.
+  
+  [**Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model**](https://arxiv.org/abs/2501.00895)
+
+  [**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**](https://ieeexplore.ieee.org/document/10768939)
+  
 ## Datasets
 
 ### Multi-view SAR Target Generation
@@ -131,6 +164,9 @@
 [WHU-SEN-City: SAR-to-Optical Image Translation Using Supervised Cycle-Consistent Adversarial Networks](https://github.com/whu-csl/WHU-SEN-City)
 
 [Multi-Sensor All Weather Mapping (MSAW) Dataset: SpaceNet 6: Multi-Sensor All Weather Mapping Dataset](https://spacenet.ai/sn6-challenge/)
+
+
+
 
 ## Experiments
 
