@@ -30,6 +30,9 @@
 
 **Language-Guided Diffusion Models for Remote Sensing**
 
+[Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives](https://ieeexplore.ieee.org/document/10684806)
+
+[**Generative Artificial Intelligence Meets Synthetic Aperture Radar: A survey**](https://ieeexplore.ieee.org/document/10684806)
 
 ### Electromagnetic Modeling
 
